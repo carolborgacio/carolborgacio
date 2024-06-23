@@ -1,16 +1,15 @@
-## Hi there 👋
+## Oi, esse é meu perfil 🤍
 
-<!--
-**carolborgacio/carolborgacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*eu me chamo Ana Caroline*
+- estudante do ensino médio na E.E.Prof.Dr Laerte Ramos de Carvalho
 
-Here are some ideas to get you started:
+  ## Você pode falar comigo 📫
+  00001103494120sp@al.educacao.sp.gov.br
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  @carol_borgacio
+
+  ![](https://media.tenor.com/aYftpu3atRYAAAAM/studying-from-up-on-the-poppy-hill.gif)
+
+
+
+
